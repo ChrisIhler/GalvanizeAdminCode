@@ -1,0 +1,11 @@
+var name = "Stranger"
+
+if (name === "Chris") {
+    console.log("Hello me!");
+} else if (name === "Mom") {
+    console.log("Hello " + name + " I love you!");
+} else if (name === "Dad") {
+ 	console.log("Hello Father");
+} else {
+    console.log("I don't know you! Stranger Danger!!");
+}
